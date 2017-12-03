@@ -73,31 +73,32 @@ https://github.com/MicrosoftLearning/20486-DevelopingASPNETMVCWebApplications/tr
   ```cs
 		@Html.ActionLink("Back to List", "Index")
 ```
-15. On the **DEBUG** menu of the **"OperasWebsites - Microsoft Visual Studio"** window, click **Start Debugging**.
+15. On the **FILE** menu of the **"OperasWebsites - Microsoft Visual Studio"** window, click **Close**.
+16. On the **DEBUG** menu of the **"OperasWebsites - Microsoft Visual Studio"** window, click **Start Debugging**.
 
     >**Note** : The Operas I Have Seen page is displayed.
 
-16. On the Operas I Have Seen page, click **operas I've seen**.
+17. On the Operas I Have Seen page, click **operas I've seen**.
 
     >**Note** : On the Index page, the list of Operas is displayed.
 
-17. On the Index page, click **Create New**.
+18. On the Index page, click **Create New**.
 
     >**Note** : The Add an Opera page is displayed.
 
-18. In the **Year** box of the Add an Opera page, type **1597**, and then click **Create**.
+19. In the **Year** box of the Add an Opera page, type **1597**, and then click **Create**.
 
     >**Note** : Messages corresponding to the **Title**, **Year**, and **Composer** boxes are displayed. The web application mandates you to enter values in all the boxes. Alerts are also displayed for any inappropriate entries, with relevant messages.
 
-19. In the **Title** box of the Add an Opera page, type **Rigoletto**.
-20. In the **Year** box of the Add an Opera page, type **1851**.
-21. In the **Composer** box of the Add an Opera page, type **Verdi**, and then click **Create**.
+20. In the **Title** box of the Add an Opera page, type **Rigoletto**.
+21. In the **Year** box of the Add an Opera page, type **1851**.
+22. In the **Composer** box of the Add an Opera page, type **Verdi**, and then click **Create**.
 
     >**Note** : The Opera is created with the mentioned values.
 
-22. In the Windows Microsoft Edge window, click **Close**.
-23. In the **"OperasWebsites - Microsoft Visual Studio"** window, click **Stop Debugging**.
-24. In the **"OperasWebsites - Microsoft Visual Studio"** window, click **Close**.
+23. In the Windows Microsoft Edge window, click **Close**.
+24. In the **"OperasWebsites - Microsoft Visual Studio"** window, click **Stop Debugging**.
+25. In the **"OperasWebsites - Microsoft Visual Studio"** window, click **Close**.
 
 ©2016 Microsoft Corporation. All rights reserved. 
 
